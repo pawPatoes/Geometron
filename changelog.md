@@ -1,3 +1,6 @@
+# 1.0.4
+- Re-enable macOS support as the crash no longer seems to occur
+
 # 1.0.3
 - Removed an unnecessary bit of debug code that was sometimes causing harmless but annoying crashes on game exit
 
